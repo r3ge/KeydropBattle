@@ -10,7 +10,7 @@ Open your browser and hit
 ```bash
 F12 
 ```
-Then press the console button. Its left to "Elements"
+Then press the console button. Its right to "Elements"
 ## Usage
 Go to [https://key-drop.com/en/case-battle/list](https://key-drop.com/en/case-battle/list)
 Open your console
