@@ -19,4 +19,4 @@ Paste the code into your console, once a new battle appears it will auto-join it
 **You need to open the js with notepad so you can copy the code!**
 ## Credits
 
-remigiuszrat
+[oxi1224](https://github.com/oxi1224)
