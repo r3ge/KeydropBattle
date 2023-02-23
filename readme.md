@@ -1,3 +1,6 @@
+p align="center">
+  <img src="https://img.shields.io/github/downloads/r3ge/KeydropBattle/total?style=for-the-badge&logo=appveyor">
+  </p>
 # Keydrop Battle
 
 Keydrop Battle is a js script made for joining free keydrop battles automatically.
