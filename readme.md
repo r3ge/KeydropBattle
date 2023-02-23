@@ -11,7 +11,6 @@ Open your browser and hit
 F12 
 ```
 Then press the console button. Its left to "Elements"
-![Console Button](https://i.ibb.co/fYjtDtr/console.png)
 ## Usage
 Go to [https://key-drop.com/en/case-battle/list](https://key-drop.com/en/case-battle/list)
 Open your console
